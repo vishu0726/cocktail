@@ -1,6 +1,6 @@
 import React from 'react';
 import "./Header.css";
-import headerImg from '../../Images/header.jpg';
+// import headerImg from '../../Images/header.jpg';
 import logo from '../../Images/logo.jpg';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {faClock,faLocationDot} from '@fortawesome/free-solid-svg-icons';
