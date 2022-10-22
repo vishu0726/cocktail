@@ -1,0 +1,40 @@
+.details{
+    margin: 20px 5px 0 10px;
+    width: 100%;
+}
+.input_feild{
+    border: none;
+    /* border-bottom: 0.5px solid gray;*/
+    box-shadow: 0 8px 6px -6px gray;
+    width: 80%;
+    outline: none;
+    padding: 5px;
+    margin: 5px 0px;
+    font-size: large;
+}
+.details_image{
+    height: 10rem;
+    border: 0.5px solid black;
+    border-radius: 10px;
+    margin: 10px;
+}
+.cocktail_name{
+    font-weight: 600;
+    font-size: x-large;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+.ingredient{
+    float: left;
+    font-weight: 500;
+    font-size: medium;
+    margin-left: 15px;
+}
+.cocktail_details{
+    /* border-bottom: 1px solid black; */
+    /* box-shadow: 0 8px 6px -6px gray;
+    margin: 2vh; */
+}
+.para{
+    float: left;
+}
