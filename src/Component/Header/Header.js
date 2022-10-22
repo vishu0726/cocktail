@@ -10,7 +10,7 @@ function Header() {
     <div className='main'>
         <div className='header'>
         <div className='logo_details'>
-            <div><img className='logo' src={logo}/></div>
+            <div><img className='logo' src={logo} alt=""/></div>
             <div className='name_desc'>
                 <div className='logo_name'>Cocktails</div>
                 <div className='name'><FontAwesomeIcon icon={faLocationDot}/> 57,Virul Gaon Street,MH</div>
